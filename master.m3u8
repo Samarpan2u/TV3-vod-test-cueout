@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:7
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://cdn3-uat.tvplayhome.lt/live/eds-uat2/TV3_LT_2-mp4a_96000_lav=20002.m3u8",GROUP-ID="audio-AACL-96",LANGUAGE="lv",NAME="Latvian",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://github.com/Samarpan2u/TV3-vod-test-cueout/raw/refs/heads/main/z1.m3u8",GROUP-ID="audio-AACL-96",LANGUAGE="lv",NAME="Latvian",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
 #EXT-X-STREAM-INF:BANDWIDTH=9434655,AVERAGE-BANDWIDTH=8576960,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000,AUDIO="audio-AACL-96"
-https://cdn3-uat.tvplayhome.lt/live/eds-uat2/TV3_LT_2-avc1_8000000=10010.m3u8
+https://github.com/Samarpan2u/TV3-vod-test-cueout/raw/refs/heads/main/z2.m3u8
