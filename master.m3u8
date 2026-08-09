@@ -2,7 +2,7 @@
 #EXT-X-VERSION:7
 #EXT-X-INDEPENDENT-SEGMENTS
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud",NAME="Default",LANGUAGE="lt",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://github.com/Samarpan2u/TV3-vod-test-cueout/raw/refs/heads/main/z2.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud",NAME="Default",LANGUAGE="lt",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="z2.m3u8"
 
 #EXT-X-STREAM-INF:BANDWIDTH=1096000,AVERAGE-BANDWIDTH=1050000,CODECS="avc1.640028,mp4a.40.2",AUDIO="aud"
-https://github.com/Samarpan2u/TV3-vod-test-cueout/raw/refs/heads/main/z1.m3u8
+z1.m3u8
